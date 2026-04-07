@@ -1,7 +1,7 @@
 # School Enrollment System - Centro Educativo
 
 ### Overview
-This professional software solution is designed to manage and automate the enrollment process for educational institutions. It provides a comprehensive toolset for student registration, academic record tracking, and data-driven decision-making through advanced reporting. 
+This software solution is designed to manage and automate the enrollment process for educational institutions. It provides a comprehensive toolset for student registration, academic record tracking, and data-driven decision-making through advanced reporting. 
 
 ### Technical Architecture
 The project is built using a Layered Architecture (N-Tier) in .NET to ensure high scalability, separation of concerns, and ease of maintenance: 
